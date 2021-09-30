@@ -51,3 +51,4 @@ about:
 extra:
   recipe-maintainers:
     - open-ce/open-ce-dev-team
+    - mxr-conda
